@@ -23,7 +23,7 @@ $ conda remove -n [virtual env name] --all
 
 git 사용 단축키
 ==========
-1. 초기 등록시
+1. 초기 등록시   
 $ git init : 초기화   
 $ git add [stage 대상 파일]  or git add * or git add . (모든 파일 업데이트)   
 $ git commit -m "first commit"   
