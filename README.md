@@ -35,10 +35,9 @@ $ git push -u origin main
 $ git pull : git에 변경된 내용을 받아 들임     
 
 3. 변경 파일을 반영 하는 경우
-$ git add [stage 대상 파일]  or git add * or git add . (모든 파일 업데이트)   
-$ git commit -m "first commit"   
-$ git branch -M main   (필요 여부 확인 필요 함)
-$ git push -u origin main   
+$ git add [stage 대상 파일]  or git add * or git add . (모든 파일 업데이트)       
+$ git commit -m "first commit"      
+$ git push -u origin main      
 
 
 
