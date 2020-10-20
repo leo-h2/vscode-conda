@@ -14,9 +14,20 @@ Reference :
  * 링크 : <https://mylogcenter.tistory.com/7>
 
 
-Anaconda command
-================
+Anaconda 단축키
+============
 $ conda env list
 $ conda create -n [virtual env name] python = 3.6
 $ conda activate [virtual env name]
 $ conda remove -n [virtual env name] --all 
+
+
+git 사용 단축키
+==========
+$ git init : 초기화
+$ git add [stage 대상 파일]  or git add * or git add . (모든 파일 업데이트)
+$ git commit -m "first commit"
+$ git branch -M main
+$ git remote add origin [git url address]
+$ git push -u origin main
+$ git pull : git에 변경된 내용을 받아 들임
