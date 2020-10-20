@@ -14,3 +14,9 @@ Reference :
  * 링크 : <https://mylogcenter.tistory.com/7>
 
 
+Anaconda command
+================
+$ conda env list
+$ conda create -n [virtual env name] python = 3.6
+$ conda activate [virtual env name]
+$ conda remove -n [virtual env name] --all 
